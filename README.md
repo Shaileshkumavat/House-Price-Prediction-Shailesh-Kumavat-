@@ -65,4 +65,4 @@ This project walks through the full ML workflow — data exploration, cleaning, 
 House price in this dataset is driven overwhelmingly by **area**, with bathrooms and air conditioning as secondary factors — a useful signal for real-estate pricing and marketing strategy.
 
 ---
-*Internship Project — Week 1: House Price Prediction*
+*Week 1: House Price Prediction*
